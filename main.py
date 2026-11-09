@@ -536,4 +536,4 @@ if __name__ == '__main__':
     print(f"Speed: JWT={JWT_CONCURRENCY}x, LIKE={LIKE_CONCURRENCY}x")
     print(f"Token check: every {CHECK_INTERVAL_MIN} min")
     threading.Thread(target=scheduler_loop, daemon=True).start()
-    app.run(host='0.0.0.0', port=25575, debug=False, use_reloader=False)
+    app.run(host='0.0.0.0', port=5001, debug=False, use_reloader=False)
