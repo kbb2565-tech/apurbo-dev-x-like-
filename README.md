@@ -1,4 +1,4 @@
- # 🔥 Aʏᴀɴ Bʀᴏ Fʀᴇᴇ Fɪʀᴇ Lɪᴋᴇ Aᴘɪ
+ # 🔥 Aᴘᴜʀʙᴏ Fʀᴇᴇ Fɪʀᴇ Lɪᴋᴇ Aᴘɪ
 
 > **«🟢 Oʙ55 • 🔵 Fᴀsᴛ • 🟣 Aѕʏɴᴄ • 🟠 Mᴜʟᴛɪ-Rᴇɢɪᴏɴ»**
 
@@ -58,7 +58,7 @@ https://YOUR-DOMAIN/like?uid=6964918507&server_name=IND
   "Elapsed sec": 1.42,
   "tokens_used": 6,
   "remains": "(99/100)",
-  "Credit": "🔥 Ayan Bro | @ayantcplab"
+  "Credit": "🔥 Aᴘᴜʀʙᴏ | @developer_apurbo"
 }
 ```
 
@@ -153,9 +153,9 @@ python app.py
 
 ## 👤 Pᴏᴡᴇʀᴇᴅ Bʏ
 
-- 🔥 Aʏᴀɴ Bʀᴏ
-- 📢 t.me/YOUR_CHANNEL_USERNAME
-- 👤 t.me/YOUR_USERNAME
+- 🔥 Aᴘᴜʀʙᴏ
+- 📢 t.me/jxe_world
+- 👤 t.me/developer_apurbo
 ━─━────༺༻────━─━
 
-### 💜 Aʏᴀɴ Bʀᴏ • Fʀᴇᴇ Fɪʀᴇ Lɪᴋᴇ Aᴘɪ
+### 💜 Aᴘᴜʀʙᴏ • Fʀᴇᴇ Fɪʀᴇ Lɪᴋᴇ Aᴘɪ
